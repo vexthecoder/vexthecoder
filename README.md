@@ -19,7 +19,7 @@
     <h2>Experience & Education</h2>
     <ul>
         <li>Currently enrolled at a school in Texas</li>
-        <li>Over 4 years in coding development experience</li>
+        <li>Around 3 years in coding development experience</li>
         <li>Certified Idiot</li>
     </ul>
 </body>
