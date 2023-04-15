@@ -18,8 +18,8 @@
     </ul>
     <h2>Experience & Education</h2>
     <ul>
-        <li>Currently enrolled at <a href="https://tjhs.tomballisd.net/" target="_blank">Tomball Junior High School</a></li>
-        <li>Over 2 years in coding development experience</li>
+        <li>Currently enrolled at a school in Texas</li>
+        <li>Over 4 years in coding development experience</li>
         <li>Certified Idiot</li>
     </ul>
 </body>
