@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Vex</h1>
 <h3 align="center">I'm a somewhat-experienced website maker who is almost always busy.</h3>
 
-- 🖥 I’m currently working on the [Sol's RNG Value](https://sols-rng-value-calculator.vercel.app) website.
+- 🖥 I’m currently working on the [Sol's RNG Value Calculator](https://sols-rng-value-calculator.vercel.app) website.
 
 - 🗨 You can contact me on [Discord](https://discordapp.com/users/1018875765565177976)
 
